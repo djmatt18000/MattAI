@@ -1,10 +1,8 @@
 # MattAI
-Matt ai ver 2.2.6.0
-2022 June 28 update
-# Normal Updtate
+Matt ai ver 2.2.7.3
+# mod support update
 
 ## ChangeLog
-fixed the run.py crashing and deleting the matt ai files.
-added settings and error checker.
+added mod support
 
 Additional bug fixes.
