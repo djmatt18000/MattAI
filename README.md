@@ -1,8 +1,5 @@
 # MattAI
-Matt ai ver 2.2.7.3
-# mod support update
+Matt ai ver 2.2.7.4
 
 ## ChangeLog
-added mod support
-
-Additional bug fixes.
+Bug Fixes
