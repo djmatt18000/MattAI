@@ -1,5 +1,5 @@
 # MattAI
-Matt ai ver 2.2.8.1
+Matt ai ver 2.3
 
 ## ChangeLog
-Bug Fixes
+Bug Fixes and ability to verify files
